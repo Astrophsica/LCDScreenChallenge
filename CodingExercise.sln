@@ -5,6 +5,12 @@ VisualStudioVersion = 15.0.28307.1209
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingExercise", "CodingExercise\CodingExercise.csproj", "{94FB2BC4-6ECC-4F7E-AAB1-770B66C2BADA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2910CFBE-BB62-46F5-884B-7B568D4DFB5E}"
+	ProjectSection(SolutionItems) = preProject
+		LCDStyleOutput.png = LCDStyleOutput.png
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
