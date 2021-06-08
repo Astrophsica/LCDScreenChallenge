@@ -1,0 +1,8 @@
+Hi Joe,
+
+The way I approached this problem is to break down the problem into smaller chunks. The first task is to get a user input with numbers between 0 – 9. The next task is to convert that string into separate numbers, and not just stored as “123”, but instead “1”, “2”, “3”. The final task is to convert the int input into a string LCD output.
+
+The main difficulties of this task was to figure out how to store the LCD style numbers. For the LCD Style, I noticed that the task involves converting an int to a string. So, I decided to use a dictionary where the int is the key, and the string is the value. Another pattern I noticed with LCD style is that they all have 3 lines, and as multiple parts of a number would be on the same line, I decided to store a string array with length of 3. This represents the string of each individual line.
+
+Kind regards,
+Humza
